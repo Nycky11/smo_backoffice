@@ -5,8 +5,10 @@
 /tmp
 /out-tsc
 
-# dependencies
-#/node_modules
+
+
+# dependances
+/node_modules
 
 # IDEs and editors
 /.idea
@@ -16,6 +18,8 @@
 *.launch
 .settings/
 *.sublime-workspace
+
+
 
 # IDE - VSCode
 .vscode/*
